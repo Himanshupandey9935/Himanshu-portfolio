@@ -48,7 +48,7 @@ function About() {
           <li>
             <span className="fact-label">LinkedIn</span>
             <a
-              href="https://www.linkedin.com/in/himanshu-pandey-0508a4402?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+              href="https://www.linkedin.com/in/himanshu-pandey-0508a4402/"
               target="_blank"
               rel="noreferrer"
             >
